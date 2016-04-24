@@ -24,5 +24,5 @@ License
 [Owen Donckers]
 
 [Download PaddleBall]:https://github.com/odonckers/Python-Games/blob/master/PaddleBall/Py2app/PaddleBall.tar.gz?raw=true
-[Download StickStory]:https://github.com/odonckers/Python-Games/blob/master/Sticktory/Py2app/StickStory.tar.gz?raw=true
+[Download StickStory]:https://github.com/odonckers/Python-Games/blob/master/StickStory/Py2App/StickStory.tar.gz?raw=true
 [Owen Donckers]:https://github.com/odonckers/Python-Games/blob/master/LICENSE.md
