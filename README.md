@@ -4,8 +4,8 @@ My first video games built from the bottom up. And, if somebody has a cool game 
 
 Download
 --------
-PaddleBall, MacOS: [Download PaddleBall]
-StickStory, MacOS: [Download StickStory]
+ - PaddleBall, MacOS: [Download PaddleBall]
+ - StickStory, MacOS: [Download StickStory]
 
 PaddleBall
 ----------
